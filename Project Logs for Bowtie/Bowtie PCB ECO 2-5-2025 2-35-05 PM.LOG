@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=C2 Old Footprint=ALA7DA471CF450 New Footprint=ESH477M035AH3AA
+Change Component Footprint: Designator=C3 Old Footprint=ALA7DA471CF450 New Footprint=ESH477M035AH3AA
+Change Component Comment : Designator=C2 Old Comment=ALA7DA471CF450 New Comment=ESH477M035AH3AA
+Change Component Comment : Designator=C3 Old Comment=ALA7DA471CF450 New Comment=ESH477M035AH3AA
+Change Component Description : Designator=C2 Old Description=CAP ALUM 470uF 20% 450V SNAP TH New Description=CAP ALUM 470UF 20% 35V RADIAL TH
+Change Component Description : Designator=C3 Old Description=CAP ALUM 470uF 20% 450V SNAP TH New Description=CAP ALUM 470UF 20% 35V RADIAL TH
+Change Component Library : Designator=C2 Old Library=Emirhan's.IntLib New Library=Emirhan's.SchLib
+Change Component Library : Designator=C3 Old Library=Emirhan's.IntLib New Library=Emirhan's.SchLib
+Change component parameters: Designator = "C2" ("C2"); Footprint = "ALA7DA471CF450"; UniqueID = "\RVSMGVEF" ("\RVSMGVEF")
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed By"; Value = "Emirhan Bozkurt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Product Number"; Value = "ALA7DA471CF450"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "399-6592-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "ALA7DA471CF450"; UniqueID = "\EAZZDEZY" ("\EAZZDEZY")
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed By"; Value = "Emirhan Bozkurt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Product Number"; Value = "ALA7DA471CF450"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "399-6592-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3DC_SENSOR Pin=U9-2
+Removed Pin From Net: NetName=GND_SENSOR Pin=U9-5
+Change Component Library : Designator=U9 Old Library=Emirhan's.IntLib New Library=Wireless_Security_Detector.SCHLIB
+Added Pin To Net: NetName=GND_SENSOR Pin=U9-2
+Added Pin To Net: NetName=3V3DC_SENSOR Pin=U9-5
+Change Net Name : Old Net Name=NetIC1_5 New Net Name=NetR9_1

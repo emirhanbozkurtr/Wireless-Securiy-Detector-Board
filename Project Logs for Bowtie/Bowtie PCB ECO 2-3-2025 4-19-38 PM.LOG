@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetC18_1 Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=RTC_I2C_SDA Pin=U4-5
+Removed Pin From Net: NetName=RTC_I2C_SDL Pin=U4-6
+Removed Pin From Net: NetName=3.3VDC Pin=U4-8
+Removed Member From Class: ClassName=Microcontroller Member=U4
+Added Component: Designator=U1(SOIC-8)
+Add component (AddParameter): Name = "Case Package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "70µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed By"; Value = "Emirhan BOZKURT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "M41T00M6F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "497-4697-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 5.5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC18_1 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=RTC_I2C_SDA Pin=U1-5
+Added Pin To Net: NetName=RTC_I2C_SDL Pin=U1-6
+Added Pin To Net: NetName=3.3VDC Pin=U1-8
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=Y1-2
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=Y1-1
+Added Net: Name=NetU1_2
+Added Member To Class: ClassName=Microcontroller Member=Component U1 M41T00M6F

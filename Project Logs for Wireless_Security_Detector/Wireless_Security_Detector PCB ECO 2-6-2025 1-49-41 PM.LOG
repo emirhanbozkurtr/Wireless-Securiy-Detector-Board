@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND_SENSOR Pin=C39-1
+Added Pin To Net: NetName=GND_SENSOR Pin=C40-1
+Added Pin To Net: NetName=GND_SENSOR Pin=C41-1

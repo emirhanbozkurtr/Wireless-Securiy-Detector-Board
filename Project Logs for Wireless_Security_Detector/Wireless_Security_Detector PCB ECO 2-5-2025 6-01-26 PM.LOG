@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3DC Pin=U2-2
+Removed Pin From Net: NetName=3V3DC Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Change Component Library : Designator=U2 Old Library=Emirhan's.IntLib New Library=Emirhan's.SchLib
+Change component parameters: Designator = "U2" ("U2"); Footprint = "AP7361EA-33E-13"; UniqueID = "\EUFGNYVL" ("\EUFGNYVL")
+Change component parameters (AddParameter): Name = "Case Package"; Value = "SOT223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed By"; Value = "Emirhan Bozkurt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Product Number"; Value = "AP7361EA-33E-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "31-AP7361EA-33E-13TR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=3V3DC Pin=U2-3

@@ -1,0 +1,10 @@
+Sistem 220V AC 50Hz TR ev şebeke bağlantısı ile çalışabilecek
+Sistemde kullanıcı için 12VDC - 5VDC güç çıkışları olacak
+Sistem USB arayüzü ile bilgisayara bağlanabilir ve veri aktarabilir olacak
+Sistem gerçek zamanalı saat bilgilerini kullanıcıya verecek
+Sistem ortam sıcaklık verilerini anlık oalrak kullanıcıya aktaracak
+Bir hareket algılandığında sistem kullanıcya veri gönderebilecek
+Bir hareket algılandığında kullanıcı isterse sesli veya görüntülü uyarı alabilcek
+Sistem hareket algılanacak ortamda güvenlik kamerası görünümüne sahip olmalıdır.
+Sistem Wi-Fi özelliği ile bu verileri kullancıya gönderebilecektir.
+Kullanıcı isterse sistem içindeki yazılıma müdahale edebilecek. 

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=3V3DC Pin=C1-2
+Added Pin To Net: NetName=3V3DC Pin=C19-2
+Added Pin To Net: NetName=3V3DC Pin=U1-8
+Add Differential Pair: Number of nets in differential pair NetR13_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR16_1 is 1 instead of 2

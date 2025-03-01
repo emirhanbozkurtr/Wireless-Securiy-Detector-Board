@@ -1,0 +1,19 @@
+Change Component Library : Designator=RL1 Old Library=Emirhan's.IntLib New Library=Emirhan's.SchLib
+Change Component Library : Designator=RL2 Old Library=Emirhan's.IntLib New Library=Emirhan's.SchLib
+Change component parameters: Designator = "RL1" ("RL1"); Footprint = "ALQ112"; UniqueID = "\DFPCXIKR" ("\DFPCXIKR")
+Change component parameters (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed By"; Value = "Emirhan Bozkurt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Product Number"; Value = "ALQ112"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Switching Voltage"; Value = "250V AC - 30V DC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "255-3562-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RL2" ("RL2"); Footprint = "ALQ112"; UniqueID = "\KIWQVZVW" ("\KIWQVZVW")
+Change component parameters (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed By"; Value = "Emirhan Bozkurt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Product Number"; Value = "ALQ112"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Switching Voltage"; Value = "250V AC - 30V DC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "255-3562-ND"; VariantName = "[No Variations]"
+Added Room: Name=Power_Management
